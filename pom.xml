@@ -10,10 +10,10 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.example</groupId>
-  <artifactId>poc_gh_actions2</artifactId>
+  <artifactId>poc_gh_actions</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>poc_gh_actions2</name>
-  <description>poc_gh_actions2</description>
+  <name>poc_gh_actions</name>
+  <description>poc_gh_actions</description>
   <properties>
     <java.version>1.8</java.version>
   </properties>
