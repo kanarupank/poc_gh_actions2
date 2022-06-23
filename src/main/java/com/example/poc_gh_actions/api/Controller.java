@@ -1,4 +1,4 @@
-package api;
+package com.example.poc_gh_actions.api;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
